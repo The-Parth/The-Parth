@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I am Parth</h1>
+<h1 align="center"><a href="https://parthb.xyz" target="_blank">Hello there, I am Parth</a></h1>
 <h3 align="center">Driven by curiosity and learning.</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 <h3 align="center">Find me here</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/parth-bhanushali-b771ab251" target="blank"
+  <a href="https://linkedin.com/in/parth-bhanushali-b771ab251" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -18,7 +18,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/mapegz" target="blank"
+  <a href="https://www.hackerrank.com/mapegz" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -26,7 +26,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.leetcode.com/mapegz" target="blank"
+  <a href="https://www.leetcode.com/mapegz" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -34,7 +34,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.codechef.com/users/mapegz" target="blank"
+  <a href="https://www.codechef.com/users/mapegz" target="_blank"
     ><img
       align="center"
       src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg"
