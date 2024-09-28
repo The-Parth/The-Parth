@@ -3,7 +3,7 @@
 
 <p align="center">
 <img width ="auto"
- src="https://cdn.discordapp.com/attachments/1087598854670659615/1107328643732095108/desk.jpg">
+ src="https://i.ibb.co/wpSVSzb/desk.jpg">
 </p>
 <hr>
 
