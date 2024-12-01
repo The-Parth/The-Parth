@@ -140,6 +140,14 @@
   />
 </p>
 
+<p align ="center">
+  &nbsp;<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-parth&show_icons=true&locale=en&hide=jupyter%20notebook&theme=transparent&size_weight=0.5&count_weight=0.5&layout=pie"
+    width="410"
+    alt="the-parth"
+  />
+</p>
+
 <p align = "center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=The-Parth&theme=transparent"
