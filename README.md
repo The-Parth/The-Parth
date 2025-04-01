@@ -2,8 +2,10 @@
 <h3 align="center">Driven by curiosity and learning.</h3>
 
 <p align="center">
+<!--img width ="auto"
+ src="https://i.ibb.co/wpSVSzb/desk.jpg"-->
 <img width ="auto"
- src="https://i.ibb.co/wpSVSzb/desk.jpg">
+ src="https://raw.githubusercontent.com/The-Parth/The-Parth/refs/heads/main/github.jpg">
 </p>
 <hr>
 
